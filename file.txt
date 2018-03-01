@@ -1,1 +1,2 @@
 Here I have a text file
+Now I have edited this file!
